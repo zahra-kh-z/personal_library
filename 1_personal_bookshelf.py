@@ -12,7 +12,7 @@ in this code we use base sample for bookshelf but we can also add other media ty
 Note1: first should install "terminaltables" module in pycharm for show output in table format,
 or use commented show_bookshelf() and sort_bookshelf() function for show output in lines format.
 
-Note2: a pdf file is attached to show the output report
+Note2: a pdf-file is attached to show the output report
 """
 from terminaltables import AsciiTable
 
