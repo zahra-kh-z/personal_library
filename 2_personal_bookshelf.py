@@ -40,6 +40,9 @@ class MediaType:
          :param progress: progress's of all media instance
          :param status: status's of all media instance
          :param remaining: remain page/time of all media instance
+          with Python,we can use the *args or **kwargs syntax to capture a variable number of arguments in our functions. 
+         :param *args: Using *args, we can process an indefinite number of arguments in a function's position. 
+         :param **kwargs: With **kwargs, we can retrieve an indefinite number of arguments by their name.
          """
 
         self.media_type = media_type
